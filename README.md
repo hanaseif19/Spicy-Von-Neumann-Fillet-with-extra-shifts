@@ -32,7 +32,7 @@ Example Instructions:
 ADDI R1 R1 75
 ADDI R2 R2 63
 ADD R5 R1 R2  // R5 = R1 + R2
-
+```
 ## Team Members
 - [Hana Mohammed Seif](https://github.com/hanaseif19)
 - [Yara Ahmed](https://github.com/YaraElkousy)
