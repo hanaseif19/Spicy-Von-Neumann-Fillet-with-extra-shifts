@@ -1,11 +1,11 @@
 # Spicy Von Neumann Fillet with Extra Shifts
 
 ## Team Members
-- [Hana Mohammed Seif]([http://example.com/hana](https://github.com/hanaseif19))
-- [Yara Ahmed]([http://example.com/yara](https://github.com/YaraElkousy))
-- [Salma Rashad]([http://example.com/salma](https://github.com/salmarashad))
-- [Mennah Mohamed Shaker]([http://example.com/mennah](https://github.com/mennahmohamed))
-- [Nada Ibrahim Shetewi]([http://example.com/nada](https://github.com/NadaShetewi))
+- [Hana Mohammed Seif](https://github.com/hanaseif19)
+- [Yara Ahmed](https://github.com/YaraElkousy)
+- [Salma Rashad](https://github.com/salmarashad)
+- [Mennah Mohamed Shaker](https://github.com/mennahmohamed)
+- [Nada Ibrahim Shetewi](https://github.com/NadaShetewi)
 
 ## Introduction
 This project simulates a fictional computer processor named "Spicy Von Neumann Fillet with Extra Shifts". The processor integrates program instructions and data within a unified memory space. It supports three instruction formats: R-Format (arithmetic and logical operations), I-Format (operations with immediate values), and J-Format (branch and jump instructions). Instructions go through five stages: Instruction Fetch (IF), Instruction Decode (ID), Execute (EX), Memory Access (MEM), and Write Back (WB). Pipelining is implemented to maximize utilization and address data and control hazards.
